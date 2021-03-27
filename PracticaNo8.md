@@ -12,11 +12,34 @@
 
 3.-**DIAGRAMA**
 
+![Diagrama](https://user-images.githubusercontent.com/75336529/112725269-5767af80-8ee5-11eb-8e2e-b9854380dc59.png)
+
+Diagrama3.1.-Circuito equivalente.
+
 4.-**MATERIAL Y EQUIPO**
+|Cantidad|Elemento|
+|---|---|
+|1|Fuente de voltaje C.D|
+|1|Multímetro digital|
+|1|Protoboard|
+|1|Resistor de 220Ω|
+|1|Resistor de 470Ω|
+|1|Resistor de 680Ω|
+|1|Resistor de 820Ω|
+|1|Resistor de 1000Ω|
+|1|Resistor de 1500Ω|
+|1|Resistor de 1800Ω|
+|1|Resistor de 2200Ω|
+|1|Resistor de 3900Ω|
+|1|Resistor de 4700Ω|
+|1|Resistor de 1200Ω|
 
 5.-**EXPLICACIÓN**
 
-6.-**PREREQUISITOS**
+5.1Arme el circuito que se muestra en el diagrama 3.1.
+
+
+7.-**PREREQUISITOS**
 
 7.-**TABULACIÓN DE DATOS**
 
@@ -39,13 +62,16 @@ Tabla 7.1
 
 8.1.-¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
+
+
 8.2.-¿Cuál fue la potencia máxima en RL? 
 
-Watts
+0.04651Watts
 
 8.3.-¿Para qué valor de RL se obtiene la MTP?  
 
-Ω
+1000Ω
+
 9.-**CONCLUSIONES**
 
 10.-**BIBLIOGRAFIA**
