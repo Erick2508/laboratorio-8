@@ -8,6 +8,16 @@
 
 1.-**OBJETIVOS**
 
+General
+
+-Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
+
+Especificos
+
+-Determinar cuando se da la mayor cantidad de transeferencia potencia.
+
+-Analizar y comprobar los resultados teoricos con los practicos.
+
 2.-**MARCO TEORICO**
 
 3.-**DIAGRAMA**
@@ -36,10 +46,21 @@ Diagrama3.1.-Circuito equivalente.
 
 5.-**EXPLICACIÓN**
 
-5.1Arme el circuito que se muestra en el diagrama 3.1.
+5.1.-Arme el circuito que se muestra en el diagrama 3.1.
 
+![CircuitoRL](https://user-images.githubusercontent.com/75336529/112727036-774fa100-8eee-11eb-861d-0b2217f50f16.png)
 
-7.-**PREREQUISITOS**
+5.2.-Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 7.1. Anote los resultados medidos.
+
+![VRL1](https://user-images.githubusercontent.com/75336529/112727042-7dde1880-8eee-11eb-8149-70fc7206ed55.png)
+
+![ARL1](https://user-images.githubusercontent.com/75336529/112727054-88001700-8eee-11eb-985b-49af2d980cd7.png)
+
+5.3.- Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 7.1.
+
+6.-**PREREQUISITOS**
+
+Para el circuito de la figura 3.1, obtenga la potencia para cada valor de carga mostrado en la tabla 7.1 y anote los resultados en la misma.
 
 7.-**TABULACIÓN DE DATOS**
 
@@ -56,7 +77,6 @@ Tabla 7.1
 |2200|4.41|9.71|0.04286|0.04282|
 |3900|2.94|11.5|0.03391|0.03374|
 |4700|2.54|11.9|0.03013|0.03038|
-
 
 8.-**PREGUNTAS**
 
