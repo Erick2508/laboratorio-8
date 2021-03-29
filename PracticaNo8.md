@@ -3,7 +3,7 @@
 |---|---|---|
 |Nombre:|Erick| Izurieta|
 |Tema:|TEOREMA DE LA MÁXIMA TRANSFERENCIA DEPOTENCIA.||
-|Fecha de ralización:| 21/03/21|Fecha de entrega: 23/03/21|
+|Fecha de ralización:| 25/03/21|Fecha de entrega: 30/03/21|
 |Ingeniero:| Darwin|Alulema |
 
 1.-**OBJETIVOS**
