@@ -20,6 +20,8 @@ Especificos
 
 2.-**MARCO TEORICO**
 
+![cuadro](https://user-images.githubusercontent.com/75336529/112911386-eda0fe80-90ba-11eb-8c91-41be862eb28b.png)
+
 3.-**DIAGRAMA**
 
 ![Diagrama](https://user-images.githubusercontent.com/75336529/112725269-5767af80-8ee5-11eb-8e2e-b9854380dc59.png)
@@ -82,7 +84,7 @@ Tabla 7.1
 
 8.1.-¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-
+Si ya que al tener una carga la potencia varia dependiendo de cuan serca este este valor a la resistencia de thevenin.
 
 8.2.-¿Cuál fue la potencia máxima en RL? 
 
@@ -102,4 +104,4 @@ A. Salazar Gómez, FUNDAMENTOS DE CIRCUITOS, 1st ed. Bogota: Uniandes, 2008, p. 
 
 11.-**ANEXOS**
 
-Video: 
+Video: https://www.youtube.com/watch?v=5OGKE05svZw
